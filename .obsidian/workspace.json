@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "f1a8586a7dfdbc32",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd722cec290bd600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834bb245015fd4f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ba1e6aed917f466",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be8cf5648530a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "665ef20150b924ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "5307595195f76a3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "768665917ec326f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5d9aa379ea33a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3ae187c01bf7490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3077e9656a26faf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Asp Net Core Mvc-Api/1-Asp Net Core MVC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1-Asp Net Core MVC için geri bağlantılar"
+            }
+          },
+          {
+            "id": "5310534a752b2b5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Asp Net Core Mvc-Api/1-Asp Net Core MVC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1-Asp Net Core MVC'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "9d4eec7b0680c267",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "cdebb69c380430e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tüm özellikler"
+            }
+          },
+          {
+            "id": "d298fa00207c9f32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Asp Net Core Mvc-Api/1-Asp Net Core MVC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1-Asp Net Core MVC ana hatları"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "bases:Yeni taban oluştur": false
+    }
+  },
+  "active": "665ef20150b924ec",
+  "lastOpenFiles": [
+    "README.md",
+    "Asp Net Core Mvc-Api/0-Giriş.md",
+    "Asp Net Core Mvc-Api/1-Asp Net Core MVC.md",
+    "Başlıksız.md",
+    "Asp Net Core Mvc-Api"
+  ]
+}
