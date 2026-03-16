@@ -1,0 +1,1 @@
+Firebase, ==Google tarafından sunulan, mobil ve web uygulamaları geliştirmeyi hızlandıran, sunucu yönetimi gerektirmeyen (backend-as-a-service) kapsamlı bir bulut platformudur==. Gerçek zamanlı veritabanı, kullanıcı kimlik doğrulama, dosya depolama, analiz ve hosting gibi araçlarla geliştiricilerin altyapı yerine kullanıcı deneyimine odaklanmasını sağlar.

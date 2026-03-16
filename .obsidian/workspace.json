@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd722cec290bd600",
+        "id": "c7248ec706f81345",
         "type": "tabs",
         "children": [
           {
-            "id": "834bb245015fd4f0",
+            "id": "af00856439cec641",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,10 +181,21 @@
   },
   "active": "665ef20150b924ec",
   "lastOpenFiles": [
+    "Firebase/Raporlama Araçları.md",
+    "Firebase/Database.md",
+    "Firebase/Machine Learning.md",
+    "Firebase/Functions.md",
+    "Firebase/Hosting.md",
+    "Firebase/Authentication.md",
+    "Firebase/0-Giriş.md",
+    "Images/{723F30B1-130B-49C6-864F-17378DF2D8FE}.png",
+    "Images/{9E6F78B5-B563-41F9-A93F-3A4B19942C9C}.png",
+    "Pasted image 20260311152524.png",
+    "Images",
+    "Firebase",
     "README.md",
     "Asp Net Core Mvc-Api/0-Giriş.md",
     "Asp Net Core Mvc-Api/1-Asp Net Core MVC.md",
-    "Başlıksız.md",
     "Asp Net Core Mvc-Api"
   ]
 }
